@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design and Agentic AI**
 
-- 👨‍💻 I’m currently working on [Devr.AI](https://github.com/AOSSIE-Org/Devr.AI) and [HackCulture](https://www.hackculture.in)
+- 👨‍💻 I’m currently working on AI at [Commvault](https://commvault.com/)
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
 
