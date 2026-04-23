@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-- 🌱 I’m currently learning **System Design and Agentic AI**
+- 🌱 I’m currently learning **Agentic Systems**
 
-- 👨‍💻 I’m currently working on AI at [Commvault](https://commvault.com/)
+- 👨‍💻 I’m currently working on [HackCulture](https://hackculture.io/)
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
 
